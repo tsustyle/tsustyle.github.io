@@ -1,0 +1,95 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "TryHackMe"
+    url: /tryhackme/
+  - title: "HackTheBox"
+    url: /hackthebox/
+  - title: "CTF"
+    url: /ctf/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+thm:
+  - title: "Peak Hill"
+    url: /tryhackme/peakhill/
+    
+htb:
+  - title: "Beep"
+    url: /hackthebox/beep/
+  - title: "Remote"
+    url: /hackthebox/remote/
+    
+ctf:
+  - title: "Hacktivitycon 2020"
+    url: /hacktivitycon2020/
+  - title: "csictf 2020"
+    url: /csictf2020/
+
+hacktivitycon2020:
+  - title: "Web"
+    #url: /hacktivitycon2020/
+    children:
+      - title: "Note Surfer"
+        url: /hacktivitycon2020/notesurfer/
+      - title: "Lightweight Contact Book"
+        url: /hacktivitycon2020/lightweightcontactbook/
+      - title: "Bite"
+        url: /hacktivitycon2020/bite/
+      - title: "Template Shack"
+        url: /hacktivitycon2020/templateshack/
+      - title: "GI Joe"
+        url: /hacktivitycon2020/gijoe/
+  - title: "Stego"
+    children:
+      - title: "Busted"
+        url: /hacktivitycon2020/busted/
+      - title: "Chess Cheater"
+        url: /hacktivitycon2020/chesscheater/
+      - title: "Cold War"
+        url: /hacktivitycon2020/coldwar/
+      - title: "Spy vs Spy"
+        url: /hacktivitycon2020/spyvsspy/
+  - title: "Misc"
+    children:
+      - title: "Pseudo"
+        url: /hacktivitycon2020/pseudo/
+      - title: "Cat Cage"
+        url: /hacktivitycon2020/catcage/
+         
+csictf2020:
+  - title: "Web"
+    children:
+      - title: "Body Count"
+        url: /csictf2020/bodycount/
+      - title: "The Confused Deputy"
+        url: /csictf2020/theconfuseddeputy/
+      - title: "Oreo"
+        url: /csictf2020/oreo/
+      - title: "Warm Up"
+        url: /csictf2020/warmup/
+  - title: "Pwn"
+    children:
+      - title: "Pwn Intended 0x1"
+        url: /csictf2020/pwnintended0x1/
+      - title: "Pwn Intended 0x2"
+        url: /csictf2020/pwnintended0x2/
+      - title: "Pwn Intended 0x3"
+        url: /csictf2020/pwnintended0x3/
+  - title: "OSINT"
+    children:
+      - title: "Shaken"
+        url: /csictf2020/shaken/
+      - title: "Commitment"
+        url: /csictf2020/commitment/
+      - title: "Pirates of the Memorial"
+        url: /csictf2020/piratesofthememorial/
+      - title: "Flying Places"
+        url: /csictf2020/flyingplaces/
+      - title: "Lo Scampo"
+        url: /csictf2020/loscampo/
