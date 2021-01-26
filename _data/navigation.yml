@@ -32,6 +32,10 @@ htb:
     url: /hackthebox/devel/
   - title: "Nibbles"
     url: /hackthebox/nibbles/
+  - title: "Bashed"
+    url: /hackthebox/bashed/
+  - title: "Optimum"
+    url: /hackthebox/optimum/
     
 ctf:
   - title: "Hacktivitycon 2020"
