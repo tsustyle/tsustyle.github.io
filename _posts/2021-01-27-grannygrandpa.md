@@ -12,7 +12,7 @@ tags:
   - metasploit
 ---
 
-header-image
+![img](/assets/images/htb/grannygrandpa/header.png)
 
 ### Port Scanning and General Enumeration (Nmap, Nikto)
 * Reading/Resources
