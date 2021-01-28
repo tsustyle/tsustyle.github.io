@@ -36,6 +36,8 @@ htb:
     url: /hackthebox/bashed/
   - title: "Optimum"
     url: /hackthebox/optimum/
+  - title: "Granny & Grandpa"
+    url: /hackthebox/grannygrandpa/
     
 ctf:
   - title: "Hacktivitycon 2020"
