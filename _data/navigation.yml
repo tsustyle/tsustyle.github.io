@@ -18,6 +18,8 @@ main:
 thm:
   - title: "Peak Hill"
     url: /tryhackme/peakhill/
+  - title: "THM Challenge"
+    url: /tryhackme/thmchallenge/
     
 htb:
   - title: "Beep"
