@@ -17,7 +17,6 @@ tags:
 One of the first things I do with pcaps is try to export any objects that it may have
 
 1. File
-
 2. Export Objects
 
 They love their people and it's just a comment? 
