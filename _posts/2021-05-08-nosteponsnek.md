@@ -1,5 +1,3 @@
-No step on snek - Pwn
-
 ---
 title: No step on snek
 date: 2020-05-08
