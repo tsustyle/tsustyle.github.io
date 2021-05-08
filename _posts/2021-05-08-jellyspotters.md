@@ -1,5 +1,3 @@
-Jellyspotters - Pwn
-
 ---
 title: Jellyspotters
 date: 2020-05-08
