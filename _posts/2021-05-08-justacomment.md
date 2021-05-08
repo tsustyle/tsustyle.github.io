@@ -1,5 +1,3 @@
-Just a comment - FWN
-
 ---
 title: Just a Comment
 date: 2020-05-08
