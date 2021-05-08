@@ -18,3 +18,7 @@ Exiftool on the file
 
 
 ![img](/assets/images/ctf/dawgctf2021-tagyoureit/1.png)
+
+wat
+
+`DawgCTF{wh0_d0wnl0ads_mus1c_anym0r3?}`
