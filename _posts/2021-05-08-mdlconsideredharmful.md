@@ -1,5 +1,3 @@
-MDL Considered Harmful - Pwn
-
 ---
 title: MDL Considered Harmful
 date: 2020-05-08
