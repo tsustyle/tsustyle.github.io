@@ -1,5 +1,3 @@
-Phriedman Systems - Fwn
-
 ---
 title: Phriedman Systems
 date: 2020-05-08
