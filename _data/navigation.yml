@@ -116,38 +116,38 @@ csictf2020:
       - title: "Lo Scampo"
         url: /csictf2020/loscampo/
         
- dawgctf2021:
-  - title: "Pwn"
-  children:
-    - title: "MDL Considered Harmful"
-      url: /dawgctf2021/mdlconsideredharmful/
-    - title: "No Step on Snek"
-      url: /dawgctf2021/nosteponsnek/
-    - title: "Jellyspotters"
-      url: /dawgctf2021/jellyspotters/
-  - title: "Fwn"
-  children:
-    - title: "Just a Comment"
-      url: /dawgctf2021/justacomment/
-    - title: "Dr. Hrabowski"
-      url: /dawgctf2021/drhrabowski/
-    - title: "Phriedman Systems"
-      url: /dawgctf2021/phriedmansystems/
-  - title: "Misc"
-  children:
-    - title: "Identifications"
-      url: /dawgctf2021/identifications/
-    - title: "These Ladies Paved Your Way"
-      url: /dawgctf2021/theseladiespavedyourway/
-    - title: "Two Truths and a Fib"
-      url: /dawgctf2021/twotruthsandafib/
-  - title: "Audio/Radio"
-  children:
-    - title: "Tag, You're it!"
-      url: /dawgctf2021/tagyoureit/
-    - title: "Baby's First Modulation"
-      url: /dawgctf2021/babysfirstmodulation
-    - title: "Deserted Island Toolkit"
-      url: /dawgctf2021/desertedislandtoolkit/
-    - title: "Third Eye"
-      url: /dawgctf2021/thirdeye/
+dawgctf2021:
+ - title: "Pwn"
+ children:
+   - title: "MDL Considered Harmful"
+     url: /dawgctf2021/mdlconsideredharmful/
+   - title: "No Step on Snek"
+     url: /dawgctf2021/nosteponsnek/
+   - title: "Jellyspotters"
+     url: /dawgctf2021/jellyspotters/
+ - title: "Fwn"
+ children:
+   - title: "Just a Comment"
+     url: /dawgctf2021/justacomment/
+   - title: "Dr. Hrabowski"
+     url: /dawgctf2021/drhrabowski/
+   - title: "Phriedman Systems"
+     url: /dawgctf2021/phriedmansystems/
+ - title: "Misc"
+ children:
+   - title: "Identifications"
+     url: /dawgctf2021/identifications/
+   - title: "These Ladies Paved Your Way"
+     url: /dawgctf2021/theseladiespavedyourway/
+   - title: "Two Truths and a Fib"
+     url: /dawgctf2021/twotruthsandafib/
+ - title: "Audio/Radio"
+ children:
+   - title: "Tag, You're it!"
+     url: /dawgctf2021/tagyoureit/
+   - title: "Baby's First Modulation"
+     url: /dawgctf2021/babysfirstmodulation
+   - title: "Deserted Island Toolkit"
+     url: /dawgctf2021/desertedislandtoolkit/
+   - title: "Third Eye"
+     url: /dawgctf2021/thirdeye/
