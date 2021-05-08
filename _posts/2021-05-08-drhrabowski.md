@@ -1,5 +1,3 @@
-Dr. Hrabowski - Fwn
-
 ---
 title: Dr. Hrabowski
 date: 2020-05-08
