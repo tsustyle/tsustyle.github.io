@@ -1,5 +1,3 @@
-Third Eye - Audio/Radio
-
 ---
 title: Third Eye
 date: 2020-05-08
@@ -20,3 +18,7 @@ Opening the file in **Sonic Visualiser** and adding a **Spectrogram** we can see
 
 
 ![img](/assets/images/ctf/dawgctf2021-thirdeye/1.png)
+
+![3816bd517239bfbf71431e5a7e50b951.png](:/721f53fa5aa547d599382463f5dfe241)
+
+`DawgCTF{syn3sth3s1acs}`
