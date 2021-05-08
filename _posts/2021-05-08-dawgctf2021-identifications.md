@@ -1,5 +1,3 @@
-Identifications - Misc
-
 ---
 title: Identifications
 date: 2020-05-08
