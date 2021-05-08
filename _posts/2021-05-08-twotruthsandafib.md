@@ -1,5 +1,3 @@
-Two Truths and a Fib - Misc
-
 ---
 title: Two Truths and a Fib
 date: 2020-05-08
