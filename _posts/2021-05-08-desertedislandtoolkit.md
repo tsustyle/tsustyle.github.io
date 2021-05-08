@@ -1,5 +1,3 @@
-Deserted Island Toolkit - Audio/Radio
-
 ---
 title: Deserted Island Toolkit
 date: 2020-05-08
@@ -15,3 +13,15 @@ tags:
 
 
 ![img](/assets/images/ctf/dawgctf2021-desertedislandtoolkit/0.png)
+
+We're given an **iso** file, mounting it reveals a **cdda** file.
+
+https://wiki.archlinux.org/title/Rip_Audio_CDs
+
+using **lame** to turn the **cdda** into an **mp3**
+
+`lame -V0 is/dawgTunes.cdda memes.mp3`
+
+The audio file plays a series of morse code characters, decoding it gives us
+
+`S0SISNOTTHEAN5W3R`
