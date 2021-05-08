@@ -32,3 +32,7 @@ Now all we have to do is find the **CLLI** code for **Verizon** in **Mt. Airy Ma
 
 
 ![img](/assets/images/ctf/dawgctf2021-identifications/3.png)
+
+https://www.telcodata.us/search-area-code-exchange-detail?npa=301&exchange=829
+
+`DawgCTF{MTARMDMARS1}`
