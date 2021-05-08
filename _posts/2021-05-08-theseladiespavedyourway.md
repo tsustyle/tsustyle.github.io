@@ -1,5 +1,3 @@
-These Ladies Paved Your Way - Misc
-
 ---
 title: These Ladies Paved Your Way
 date: 2020-05-08
