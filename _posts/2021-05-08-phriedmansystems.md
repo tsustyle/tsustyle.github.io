@@ -47,12 +47,19 @@ Found the login
 Dug around in the source code, but the login function is secure. Going back to the hints it says that it's more of a recon challenge. The phone number works!
 
 Press 1: Company Info. CEO tells us that he's from Albany.
+
 Press 4: IT Department
+
 Press 3: Automated Assistance
+
 Pess 2: Password Recovery
+
 Using the keypad, input `csmith`
+
 Asks us to provide the answer to the security question.
+
 CEO Security Question: Name of hometown?
+
 Using the keypad, input `Albany`
 
 It then reads us the password:
