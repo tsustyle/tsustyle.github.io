@@ -44,7 +44,7 @@ Found the login
 
 first initial + last name is used a *lot* in the corporate world. The CEO's name is `Conrad Smith`, so `csmith` is a safe bet for a username.
 
-Dug around in the source code, but the login function is secure. Going back to the hints it says that it's more of a recon challenge. The phone number works!
+The log in function is secure. The hints say that it's more of a recon challenge. Let's try the phone!
 
 Press 1: Company Info. CEO tells us that he's from Albany.
 
