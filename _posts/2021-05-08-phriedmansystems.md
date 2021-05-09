@@ -42,7 +42,7 @@ Found the login
 
 ![img](/assets/images/ctf/dawgctf2021-phriedmansystems/2.png)
 
-`csmith` exists, probably the CEO username
+first initial + last name is used a *lot* in the corporate world. The CEO's name is `Conrad Smith`, so `csmith` is a safe bet for a username.
 
 Dug around in the source code, but the login function is secure. Going back to the hints it says that it's more of a recon challenge. The phone number works!
 
@@ -52,7 +52,7 @@ Press 4: IT Department
 
 Press 3: Automated Assistance
 
-Pess 2: Password Recovery
+Press 2: Password Recovery
 
 Using the keypad, input `csmith`
 
