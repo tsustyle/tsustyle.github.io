@@ -52,6 +52,10 @@ ctf:
     url: /csictf2020/
   - title: "DawgCTF 2021"
     url: /dawgctf2021/
+  - title: "dctf 2021"
+    url: /dctf2021/
+
+
 
 hacktivitycon2020:
   - title: "Web"
