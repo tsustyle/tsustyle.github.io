@@ -151,3 +151,35 @@ dawgctf2021:
         url: /dawgctf2021/desertedislandtoolkit/
       - title: "Third Eye"
         url: /dawgctf2021/thirdeye/
+
+dctf2021:
+  - title: "Pwn"
+    children:
+      - title: "Pwn Sanity Check"
+        url: /dctf2021/pwnsanitycheck/
+      - title: "Pinch Me"
+        url: /dctf2021/pinchme/
+  - title: "Web"
+    children:
+      - title: "Very Secure Website"
+        url: /dctf2021/verysecurewebsite/
+      - title: "Secure api"
+        url: /dctf2021/secureapi/
+      - title: "Injection"
+        url: /dctf2021/injection/
+  - title: "Misc"
+    children:
+      - title: "Bad Apple"
+        url: /dctf2021/badapple/
+      - title: "Behind the Scenes"
+        url: /dctf2021/behindthescenes/
+      - title: "DevOps vs SecOps"
+        url: /dctf2021/devopsvssecops/
+      - title: "Encrypted the flag I have"
+        url: /dctf2021/encryptedtheflagihave/
+      - title: "Don't let it run"
+        url: /dctf2021/dontletitrun/
+  - title: "Crypto"
+    children:
+      - title: "This one is really basic"
+        url: /dawgctf2021/thisoneisreallybasic/
