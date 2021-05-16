@@ -181,5 +181,5 @@ dctf2021:
         url: /dctf2021/dontletitrun/
   - title: "Crypto"
     children:
-      - title: "This one is really basic"
-        url: /dawgctf2021/thisoneisreallybasic/
+      - title: "This one really is basic"
+        url: /dawgctf2021/thisonereallisbasic/
