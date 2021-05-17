@@ -68,7 +68,7 @@ Catting it out with `.popen('cat${IFS}lib/security.py')`
 
 Let's clean it up
 
-```Python
+```
 valid_password = 'QfsFjdz81cx8Fd1Bnbx8lczMXdfxGb0snZ0NGZ'
 return base64.b64encode(password.encode('ascii')).decode('ascii')[::-1].lstrip('=') == valid_password
 ```
@@ -79,7 +79,7 @@ Knowing that, we can reverse the `valid_password` variable and add padding to it
 
 This is the quick script I used
 
-```Python
+```
 import base64
  
 print(base64.b64decode('==QfsFjdz81cx8Fd1Bnbx8lczMXdfxGb0snZ0NGZ'[::-1]))

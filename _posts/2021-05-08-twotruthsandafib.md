@@ -14,7 +14,7 @@ tags:
 
 ![img](/assets/images/ctf/dawgctf2021-twotruthsandafib/0.png)
 
-```Python
+```
 import math
 from pwn import *
 import re

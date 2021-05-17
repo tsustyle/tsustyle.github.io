@@ -56,7 +56,7 @@ Things we know:
 
 That's enough to write a script using **Pwntools**. Here's mine
 
-```Python
+```
 from pwn import *
 
 p = remote('dctf-chall-pwn-sanity-check.westeurope.azurecontainer.io', 7480)
