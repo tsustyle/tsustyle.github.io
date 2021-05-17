@@ -41,9 +41,11 @@ htb:
   - title: "Granny & Grandpa"
     url: /hackthebox/grannygrandpa/
   - title: "Academy"
-    url: /hackthebox/academy
+    url: /hackthebox/academy/
   - title: "Doctor"
-    url: /hackthebox/doctor
+    url: /hackthebox/doctor/
+  - title: "Ready"
+    url: /hackthebox/ready/
     
 ctf:
   - title: "Hacktivitycon 2020"
