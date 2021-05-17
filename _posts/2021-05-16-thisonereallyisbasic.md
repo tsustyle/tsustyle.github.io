@@ -15,7 +15,7 @@ tags:
 
 `Base64` `42` times
 
-```Python
+```
 import base64
 
 with open('cipher.txt', 'r') as f:
