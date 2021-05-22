@@ -46,6 +46,9 @@ htb:
     url: /hackthebox/doctor/
   - title: "Ready"
     url: /hackthebox/ready/
+  - title: "Delivery"
+    url: /hackthebox/delivery/
+
     
 ctf:
   - title: "Hacktivitycon 2020"
