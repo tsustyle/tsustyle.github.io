@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Cheatsheets"
+    url: /cheatsheets/
   - title: "TryHackMe"
     url: /tryhackme/
   - title: "HackTheBox"
@@ -14,6 +16,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+cheatsheets:
+  - title: "FFuF Cheatsheet"
+    url: /cheatsheets/ffuf/
 
 thm:
   - title: "Peak Hill"
