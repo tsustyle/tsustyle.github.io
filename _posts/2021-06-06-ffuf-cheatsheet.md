@@ -42,6 +42,8 @@ tags:
 
 # Directory Busting
 
+---
+
 Generic
 
 ```
@@ -55,12 +57,14 @@ ffuf -w wordlist.txt -u http://site.com/FUZZ -e .php,.html
 ```
 
 # VHOST
+---
 
 ```
 ffuf -w subdomains.txt -u http://site.com/ -H "Host: FUZZ.site.com"
 ```
 
 # Login Forms
+---
 
 Generic
 
@@ -88,6 +92,6 @@ username=HFUZZ&password=WFUZZ
 ffuf -request request.txt -request-proto http -mode clusterbomb -w usernames.txt:HFUZZ -w passwords.txt:WFUZZ
 ```
 
-Clusterbomb is when every word in the username list will be used with every word in the password list
+**Clusterbomb** is when every word in the username list will be used with every word in the password list
 
-Pitchform is when the first line in the username list is used with the first line in the password list, 2:2, 3:3 etc
+**Pitchfork** is when the first line in the username list is used with the first line in the password list, 2:2, 3:3 etc
