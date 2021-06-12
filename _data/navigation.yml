@@ -57,6 +57,8 @@ htb:
     url: /hackthebox/ready/
   - title: "Delivery"
     url: /hackthebox/delivery/
+  - title: "Tenet"
+    url: /hackthebox/tenet/
 
     
 ctf:
